@@ -1,18 +1,3 @@
-boxes.c
-Long ago
-Mar 12, 2016
-You restored an item
-C
-boxes.c
-Mar 10, 2016
-Youmoved an item to the trash
-C
-boxes.c
-Feb 10, 2016
-You uploaded an item
-C
-boxes.c
-
 #include<stdio.h>
  /*Creation of boxes a*b*c
 COMMAND:
